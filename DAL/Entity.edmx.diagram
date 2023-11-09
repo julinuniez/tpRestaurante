@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ec18c9fed9094bd7a6c694269d5bc6a8" Name="Diagram1" ZoomLevel="83">
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.CATEGORIA" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.CLIENTE" Width="1.5" PointX="2.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.DETALLECOMPRA" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.DETALLEVENTA" Width="1.5" PointX="6" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.INGREDIENTE" Width="1.5" PointX="4.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.PERMISO" Width="1.5" PointX="6.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.PRODUCTO" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.Productoss" Width="1.5" PointX="8.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.PROVEEDOR" Width="1.5" PointX="8.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.USUARIO" Width="1.5" PointX="9.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.VENTA" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBSISTEMARESTAURANTEModel.ROL" Width="1.5" PointX="4.75" PointY="11.875" IsExpanded="true" />
+        <AssociationConnector Association="DBSISTEMARESTAURANTEModel.FK__DETALLECO__IdPro__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="DBSISTEMARESTAURANTEModel.FK__DETALLEVE__IdPro__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="DBSISTEMARESTAURANTEModel.FK__DETALLEVE__IdVen__5EBF139D" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
